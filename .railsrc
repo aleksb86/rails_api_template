@@ -1,6 +1,0 @@
---api
---database=postgresql
---skip-test
---skip-keeps
---skip-sprockets
---skip-turbolinks
